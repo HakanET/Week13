@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13SQLLdb", "Week13SQLLdb\Week13SQLLdb.csproj", "{442BF124-53D9-447B-A38A-4D7E6AC50815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442BF124-53D9-447B-A38A-4D7E6AC50815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442BF124-53D9-447B-A38A-4D7E6AC50815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442BF124-53D9-447B-A38A-4D7E6AC50815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442BF124-53D9-447B-A38A-4D7E6AC50815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E560EA-D744-4578-BFAD-30482138575C}
+	EndGlobalSection
+EndGlobal
